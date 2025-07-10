@@ -1,1 +1,2 @@
-mistralai
+streamlit
+mistralai==0.1.8
